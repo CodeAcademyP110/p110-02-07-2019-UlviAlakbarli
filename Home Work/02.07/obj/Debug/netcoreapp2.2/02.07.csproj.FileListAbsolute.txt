@@ -1,0 +1,14 @@
+C:\Users\Ulvi\source\repos\02.07\02.07\bin\Debug\netcoreapp2.2\02.07.deps.json
+C:\Users\Ulvi\source\repos\02.07\02.07\bin\Debug\netcoreapp2.2\02.07.runtimeconfig.json
+C:\Users\Ulvi\source\repos\02.07\02.07\bin\Debug\netcoreapp2.2\02.07.runtimeconfig.dev.json
+C:\Users\Ulvi\source\repos\02.07\02.07\bin\Debug\netcoreapp2.2\02.07.dll
+C:\Users\Ulvi\source\repos\02.07\02.07\bin\Debug\netcoreapp2.2\02.07.pdb
+C:\Users\Ulvi\source\repos\02.07\02.07\obj\Debug\netcoreapp2.2\02.07.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\02.07\02.07\obj\Debug\netcoreapp2.2\02.07.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\02.07\02.07\obj\Debug\netcoreapp2.2\02.07.RazorAssemblyInfo.cache
+C:\Users\Ulvi\source\repos\02.07\02.07\obj\Debug\netcoreapp2.2\02.07.RazorAssemblyInfo.cs
+C:\Users\Ulvi\source\repos\02.07\02.07\obj\Debug\netcoreapp2.2\02.07.AssemblyInfoInputs.cache
+C:\Users\Ulvi\source\repos\02.07\02.07\obj\Debug\netcoreapp2.2\02.07.AssemblyInfo.cs
+C:\Users\Ulvi\source\repos\02.07\02.07\obj\Debug\netcoreapp2.2\02.07.RazorTargetAssemblyInfo.cache
+C:\Users\Ulvi\source\repos\02.07\02.07\obj\Debug\netcoreapp2.2\02.07.dll
+C:\Users\Ulvi\source\repos\02.07\02.07\obj\Debug\netcoreapp2.2\02.07.pdb
